@@ -1,9 +1,10 @@
-﻿namespace Client;
-
-class Program
+﻿namespace Client
 {
-	static void Main(string[] args)
+	class Program
 	{
-		Console.WriteLine("Это наш клиент");
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Это наш клиент");
+		}
 	}
 }
